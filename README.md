@@ -1,0 +1,2 @@
+# smartC
+smartcontract
